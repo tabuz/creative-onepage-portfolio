@@ -1,0 +1,108 @@
+@media(min-width: 992px) and (max-width: 1199px){
+	html{
+		font-size: 80%;
+		line-height: 1rem;
+	}
+	.carousel-caption{
+		top: 100px;		
+	}
+	.testim_cell,
+	h5.center{
+		text-align: left;
+	}
+	#testimonials img{
+		margin-right: 30px;
+	}
+}
+@media(min-width: 768px) and (max-width: 991px){
+	html{
+		font-size: 90%;
+		line-height: 1rem;
+	}
+	h6{
+		font-size: 15px;
+	}
+	.carousel-caption h2{
+		font-size: 100%;
+		line-height: 1rem;
+		margin: 0;
+	}
+	.carousel-caption h2{
+		font-size: 21px;
+	}
+	.carousel-caption h5{
+		font-size: 21px;
+		margin: 0;
+	}
+	#jhon{
+		font-size: 80px;
+		line-height: 80px;
+	}
+	#smith{
+		font-size: 80px;
+		line-height: 80px;
+		letter-spacing: 5px;
+		margin: 0;
+	}
+	.carousel-caption{
+		top: 200px;		
+	}
+	.testim_cell,
+	h5.center{
+		text-align: left;
+	}
+	#testimonials img{
+		margin-right: 30px;
+	}
+	#experience h5{
+		font-size: 21px;
+	}
+}
+@media(max-width: 767px){
+	html{
+		font-size: 18px;
+	}
+	#aboutMe{
+		padding-top: 4rem;
+	}
+	#aboutMe img{
+		margin-bottom: 1rem;
+	}	
+	.carousel-caption h2{
+		font-size: 120%;
+		line-height: 1rem;
+		margin: 0;
+	}
+	#jhon{
+		font-size: 60px;
+		line-height: 60px;
+	}
+	#smith{
+		font-size: 60px;
+		line-height: 60px;
+		letter-spacing: 5px;
+		margin: 0;
+	}
+	.carousel-caption h5{
+		font-size: 1.25rem;
+		line-height: 1rem;
+		margin: 0;
+	}
+	.carousel-caption{
+		top: 100px;		
+	}
+	.carousel-inner{
+		top: 80px;		
+	}
+	.testim_cell,
+	h5.center{
+		text-align: left;
+	}
+	#testimonials img{
+		margin-right: 30px;
+	}
+	#contact{
+		padding-top: 3rem;
+		padding-bottom: 3rem;
+	}
+}
